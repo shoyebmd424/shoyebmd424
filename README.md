@@ -1,4 +1,4 @@
-![logo](https://github.com/shoyebmd424/shoyebmd424/blob/main/banner.png)
+![logo](https://github.com/shoyebmd424/shoyebmd424/blob/main/profile-banner.png)
 <h1 align="center">Hi 👋, I'm Md Shoyeb</h1>
 <h3 align="center">Full stack Developer from India</h3>
 <img align="right" alt="Developer" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif" >
