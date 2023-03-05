@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Shoyeb</h1>
 <h3 align="center">Full stack Developer from India</h3>
-<img align="right" alt="Developer" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif" >
+<img align="right" alt="Developer" width="300" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoyebmd424&label=Profile%20views&color=0e75b6&style=flat" alt="shoyebmd424" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoyebmd424" alt="shoyebmd424" /></a> </p>
