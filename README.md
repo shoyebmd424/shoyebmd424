@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shoyebmd424.github.io/shoyeb/](https://shoyebmd424.github.io/shoyeb/)
 
-- 💬 Ask me about **Data Structureand Algorithm, Java, Spring Framework,Javascript React, Node js, React, Node js, Express js, CSS, Bootstrap**
+- 💬 Ask me about **Data Structure and Algorithm, Java, Spring Framework,Javascript React, Node js, React, Node js, Express js, CSS, Bootstrap**
 
 - 📫 How to reach me **shoyebmd424@gmail.com**
 
