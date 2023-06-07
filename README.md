@@ -4,19 +4,19 @@
 <h3 align="center">Full stack Developer from India</h3>
 <img align="right" alt="Developer" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif" >
 
-- 🔭 I’m currently working on [Araqsa-App](http://araqsa.com/)
+- 🔭 I’m currently looking for a job opportunity.
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot** and daily problem solving in **Data structrue and algorithms**.
 
-- 👯 I’m looking to collaborate on **Clinic-Web-App**
+<!-- - 👯 I’m looking to collaborate on **Clinic-Web-App** -->
 
 - 👨‍💻 All of my projects are available at [https://shoyebmd424.github.io/shoyeb/](https://shoyebmd424.github.io/shoyeb/)
 
-- 💬 Ask me about **Data Structure and Algorithm, Java, Spring Framework,Javascript React, Node js, React, Node js, Express js, CSS, Bootstrap**
+- 💬 Ask me about **Data Structure and Algorithm, Java, Spring Framework,Javascript, React, Node js, Express js, CSS, Bootstrap**
 
 - 📫 How to reach me **shoyebmd424@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ALDElvpTvB0Rni979kPu6qlH25OOc5Rt/edit?usp=sharing&ouid=101839442199075920432&rtpof=true&sd=true](https://docs.google.com/document/d/1ALDElvpTvB0Rni979kPu6qlH25OOc5Rt/edit?usp=sharing&ouid=101839442199075920432&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OeE2vuQPUV3qNCIz3vITAvg5IyZf41c5/view](https://drive.google.com/file/d/1OeE2vuQPUV3qNCIz3vITAvg5IyZf41c5/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
