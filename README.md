@@ -11,7 +11,7 @@
 - 👨‍💻 Check out my portfolio: [shoyebmd424.github.io/shoyeb](https://shoyebmd424.github.io/shoyeb/)
 - 💬 I love discussing **Java, Spring Boot, React, Node.js, APIs, System Design, and Clean Code Principles**.
 - 📫 Let's connect: **mdshoyeb4613@gmail.com**
-- 📄 View my resume: [Download Resume](https://drive.google.com/file/d/1OeE2vuQPUV3qNCIz3vITAvg5IyZf41c5/view)
+- 📄 View my resume: [Download Resume](https://drive.google.com/file/d/1jDoBaWXInjHBwx56d0D_DOomHuvIt71y/view)
 
 ---
 
